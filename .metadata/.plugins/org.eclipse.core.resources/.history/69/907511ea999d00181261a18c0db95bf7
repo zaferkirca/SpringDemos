@@ -1,0 +1,7 @@
+package com.zaferkirca.market;
+
+public class Zafer {
+	public void sloganAt(){
+		System.out.println("Zafer!");
+	}
+}
