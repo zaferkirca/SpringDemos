@@ -7,5 +7,8 @@
 </head>
 <body>
 <h1>Ilk sayfaa</h1>
+
+<a href="login">Login</a>
+
 </body>
 </html>
